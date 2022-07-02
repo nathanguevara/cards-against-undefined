@@ -21,7 +21,7 @@ export default () => {
             <JoinHeader>
                 <img src="/images/logo.png" />
                 <h1>Card Game Test</h1>
-                <p style="color:#3c3b6e">
+                <p>
                     Murica Edition
                 </p>
             </JoinHeader>
