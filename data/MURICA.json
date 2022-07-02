@@ -1,0 +1,427 @@
+{
+    "title": "MURICA Expansion",
+    "blackCards": [
+      {
+        "id": 0,
+        "text": "Live, Liberty and the pursuit of _.",
+        "pick": 1
+      },
+      {
+        "id": 1,
+        "text": "Just what this country needs, more _.",
+        "pick": 1
+      },
+      {
+        "id": 2,
+        "text": "In the distant future, historians will agree that _ marked the beginning of America's decline.",
+        "pick": 1
+      },
+      {
+        "id": 3,
+        "text": "What's the gift that keeps on giving?",
+        "pick": 1
+      },
+      {
+        "id": 4,
+        "text": "This season on Man vs. Wild, Bear Grylls must survive in the depths of the Middle America with only _ and his wits.",
+        "pick": 1
+      },
+      {
+        "id": 5,
+        "text": "Michael Bay's new three-hour action epic pits _ against _.",
+        "pick": 2
+      },
+      {
+        "id": 6,
+        "text": "America loves its _!",
+        "pick": 1
+      },
+      {
+        "id": 7,
+        "text": "In America, _ can be a suitable substitute for _.",
+        "pick": 2
+      },
+      {
+        "id": 8,
+        "text": "What has been making life difficult at the country club?",
+        "pick": 1
+      },
+      {
+        "id": 9,
+        "text": "I pledge allegiance to the _ of the United States of America.",
+        "pick": 1
+      },
+      {
+        "id": 10,
+        "text": "The only thing to fear is _ itself.",
+        "pick": 1
+      },
+      {
+        "id": 11,
+        "text": "Theres nothing more American than showing up to a party with _.",
+        "pick": 1
+      },
+      {
+        "id": 12,
+        "text": "Theres an alarming amount of _ in American hospitals.",
+        "pick": 1
+      },
+      {
+        "id": 13,
+        "text": "The schools in America need to stop teaching _.",
+        "pick": 2
+      },
+      {
+        "id": 14,
+        "text": "In its new tourism campaign, America proudly proclaims that it has finally eliminated _.",
+        "pick": 1
+      },
+      {
+        "id": 15,
+        "text": "On the ballot for 2024: _ and _.",
+        "pick": 1
+      },
+      {
+        "id": 16,
+        "text": "The future of Democracy will depend on _.",
+        "pick": 1
+      },
+      {
+        "id": 17,
+        "text": "Sometimes in America, you have to choose between _ and _.",
+        "pick": 1
+      },
+      {
+        "id": 18,
+        "text": "_ will surely solve Americas problems.",
+        "pick": 2
+      },
+      {
+        "id": 19,
+        "text": "Trusting in _ is at the core of our political process.",
+        "pick": 1
+      }
+    ],
+    "whiteCards": [
+      {
+        "id": 0,
+        "text": "Rednecks."
+      },
+      {
+        "id": 1,
+        "text": "The poors."
+      },
+      {
+        "id": 2,
+        "text": "Eating the rich."
+      },
+      {
+        "id": 3,
+        "text": "A flimsy definition of Democracy."
+      },
+      {
+        "id": 4,
+        "text": "Any U.S. President."
+      },
+      {
+        "id": 5,
+        "text": "The troops."
+      },
+      {
+        "id": 6,
+        "text": "The coal industry."
+      },
+      {
+        "id": 7,
+        "text": "The Trans Agenda."
+      },
+      {
+        "id": 8,
+        "text": "White Trash."
+      },
+      {
+        "id": 9,
+        "text": "Illegal abortions."
+      },
+      {
+        "id": 10,
+        "text": "Rigging elections."
+      },
+      {
+        "id": 11,
+        "text": "Civil rights."
+      },
+      {
+        "id": 12,
+        "text": "Teachers with guns."
+      },
+      {
+        "id": 13,
+        "text": "Boot straps."
+      },
+      {
+        "id": 14,
+        "text": "A shitload of guns."
+      },
+      {
+        "id": 15,
+        "text": "Just straight up mayonaise."
+      },
+      {
+        "id": 16,
+        "text": "Ghost Guns."
+      },
+      {
+        "id": 17,
+        "text": "A homemade AR-15."
+      },
+      {
+        "id": 18,
+        "text": "Crypto Bros."
+      },
+      {
+        "id": 19,
+        "text": "The fucking supreme court."
+      },
+      {
+        "id": 20,
+        "text": "The 'lamestream' media."
+      },
+      {
+        "id": 21,
+        "text": "Reality television stars."
+      },
+      {
+        "id": 22,
+        "text": "Amber waves of grain."
+      },
+      {
+        "id": 23,
+        "text": "Applebees."
+      },
+      {
+        "id": 24,
+        "text": "Gender reveal cakes."
+      },
+      {
+        "id": 25,
+        "text": "Apple Pie."
+      },
+      {
+        "id": 26,
+        "text": "Qanon."
+      },
+      {
+        "id": 27,
+        "text": "Anti Maskers."
+      },
+      {
+        "id": 28,
+        "text": "Anti Vaxxers."
+      },
+      {
+        "id": 29,
+        "text": "Gender neutral bathrooms."
+      },
+      {
+        "id": 30,
+        "text": "Libertarians."
+      },
+      {
+        "id": 31,
+        "text": "Joe Rogan fans."
+      },
+      {
+        "id": 32,
+        "text": "Elon Musk."
+      },
+      {
+        "id": 33,
+        "text": "Alex Jones."
+      },
+      {
+        "id": 34,
+        "text": "The United States Armed Forces."
+      },
+      {
+        "id": 35,
+        "text": "Russian Bots."
+      },
+      {
+        "id": 36,
+        "text": "Putin."
+      },
+      {
+        "id": 37,
+        "text": "Redistributing wealth."
+      },
+      {
+        "id": 38,
+        "text": "The wage gap."
+      },
+      {
+        "id": 39,
+        "text": "Income inequality."
+      },
+      {
+        "id": 40,
+        "text": "Critical race theory."
+      },
+      {
+        "id": 41,
+        "text": "Burning the flag."
+      },
+      {
+        "id": 42,
+        "text": "Burning your nike shoes."
+      },
+      {
+        "id": 43,
+        "text": "Ted Cruz."
+      },
+      {
+        "id": 44,
+        "text": "Trickle down economics."
+      },
+      {
+        "id": 45,
+        "text": "Bipartisanship."
+      },
+      {
+        "id": 46,
+        "text": "The pledge of allegiance."
+      },
+      {
+        "id": 47,
+        "text": "Fireworks."
+      },
+      {
+        "id": 48,
+        "text": "Mormonism."
+      },
+      {
+        "id": 49,
+        "text": "Gun control"
+      },
+      {
+        "id": 50,
+        "text": "Social justice."
+      },
+      {
+        "id": 51,
+        "text": "Freedom."
+      },
+      {
+        "id": 52,
+        "text": "Food deserts."
+      },
+      {
+        "id": 53,
+        "text": "Wanting a hot dog real bad."
+      },
+      {
+        "id": 54,
+        "text": "Oakley sunglasses."
+      },
+      {
+        "id": 55,
+        "text": "An ice cold beer."
+      },
+      {
+        "id": 56,
+        "text": "The Pledge of Allegiance."
+      },
+      {
+        "id": 57,
+        "text": "The Constitution."
+      },
+      {
+        "id": 58,
+        "text": "WASPS."
+      },
+      {
+        "id": 59,
+        "text": "The one percent."
+      },
+      {
+        "id": 60,
+        "text": "Racist dog whistles."
+      },
+      {
+        "id": 61,
+        "text": "Donald Trump."
+      },
+      {
+        "id": 62,
+        "text": "Manifest Destiny."
+      },
+      {
+        "id": 63,
+        "text": "The price of gas."
+      },
+      {
+        "id": 64,
+        "text": "The U.S. healthcare system."
+      },
+      {
+        "id": 65,
+        "text": "Chill Republicans."
+      },
+      {
+        "id": 66,
+        "text": "Liberal tears."
+      },
+      {
+        "id": 67,
+        "text": "Needing a car to live a normal life."
+      },
+      {
+        "id": 68,
+        "text": "The crushing weight of student debt."
+      },
+      {
+        "id": 69,
+        "text": "Divisive rhetoric."
+      },
+      {
+        "id": 70,
+        "text": "Affordable housing."
+      },
+      {
+        "id": 71,
+        "text": "The American South."
+      },
+      {
+        "id": 72,
+        "text": "Cultural Appropriation."
+      },
+      {
+        "id": 73,
+        "text": "The suburbs."
+      },
+      {
+        "id": 74,
+        "text": "Greg Abbots wheelchair."
+      },
+      {
+        "id": 75,
+        "text": "The right to vote."
+      },
+      {
+        "id": 76,
+        "text": "Separation of church and state."
+      },
+      {
+        "id": 77,
+        "text": "Massive amounts of incarceration."
+      },
+      {
+        "id": 78,
+        "text": "Pawn shops."
+      },
+      {
+        "id": 79,
+        "text": "Female reproductive rights."
+      }
+    ]
+  }

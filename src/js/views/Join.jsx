@@ -20,10 +20,9 @@ export default () => {
         <PageWrapper>
             <JoinHeader>
                 <img src="/images/logo.svg" />
-                <h1>Cards Against Undefined</h1>
+                <h1>Cards Against America</h1>
                 <p>
-                    An undefined card game you play against friends, fiends and
-                    foes
+                    ''
                 </p>
             </JoinHeader>
             <Form
@@ -53,9 +52,9 @@ export default () => {
                 <Button type="submit">Join Game</Button>
             </Form>
             <JoinFooter>
-                <p>
+                {/* <p>
                     A game by <a href="https://scottdoxey.com/">Scott Doxey</a>
-                </p>
+                </p> */}
             </JoinFooter>
         </PageWrapper>
     );
