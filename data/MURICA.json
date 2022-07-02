@@ -53,7 +53,7 @@
       },
       {
         "id": 10,
-        "text": "The only thing to fear is _ itself.",
+        "text": "_ strikes fear in the heart of Americans.",
         "pick": 1
       },
       {
@@ -79,7 +79,7 @@
       {
         "id": 15,
         "text": "On the ballot for 2024: _ and _.",
-        "pick": 1
+        "pick": 2
       },
       {
         "id": 16,
@@ -89,11 +89,11 @@
       {
         "id": 17,
         "text": "Sometimes in America, you have to choose between _ and _.",
-        "pick": 1
+        "pick": 2
       },
       {
         "id": 18,
-        "text": "_ will surely solve Americas problems.",
+        "text": "_ will surely solve America's problems.",
         "pick": 1
       },
       {
@@ -341,7 +341,7 @@
       },
       {
         "id": 59,
-        "text": "The one percent."
+        "text": "One percenters."
       },
       {
         "id": 60,
@@ -357,7 +357,7 @@
       },
       {
         "id": 63,
-        "text": "The price of gas."
+        "text": "Gas prices."
       },
       {
         "id": 64,
