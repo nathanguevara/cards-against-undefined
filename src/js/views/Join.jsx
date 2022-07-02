@@ -19,10 +19,10 @@ export default () => {
     return (
         <PageWrapper>
             <JoinHeader>
-                <img src="/images/logo.svg" />
-                <h1>Cards Against America</h1>
-                <p>
-                    ''
+                <img src="/images/logo.png" />
+                <h1>Card Game Test</h1>
+                <p style="color:#3c3b6e">
+                    Murica Edition
                 </p>
             </JoinHeader>
             <Form
