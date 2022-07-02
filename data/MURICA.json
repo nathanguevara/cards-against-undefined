@@ -18,7 +18,7 @@
       },
       {
         "id": 3,
-        "text": "What's the gift that keeps on giving?",
+        "text": "What's the American gift that keeps on giving?",
         "pick": 1
       },
       {
@@ -69,7 +69,7 @@
       {
         "id": 13,
         "text": "The schools in America need to stop teaching _.",
-        "pick": 2
+        "pick": 1
       },
       {
         "id": 14,
@@ -325,7 +325,7 @@
       },
       {
         "id": 55,
-        "text": "An ice cold beer."
+        "text": "Ice cold beer."
       },
       {
         "id": 56,

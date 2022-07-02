@@ -19,7 +19,7 @@ export default () => {
     return (
         <PageWrapper>
             <JoinHeader>
-                <img src="/images/logo.png" />
+                <img src="/images/logo.svg" />
                 <h1>Card Game Test</h1>
                 <p>
                     Murica Edition

@@ -44,7 +44,7 @@ export const CardFront = ({
             <StyledCardDescription>{description}</StyledCardDescription>
             <StyledCardFooter>
                 <StyledCardFooterLogo src="/images/logo.svg" width="25" />
-                Cards Against Undefined
+                card game test
             </StyledCardFooter>
         </StyledCard>
     );
@@ -56,7 +56,7 @@ export const CardBack = ({ type = 'white' }) => {
             backgroundColor={types[type].backgroundColor}
             textColor={types[type].textColor}
         >
-            <StyledCardHeader>Cards Against Undefined</StyledCardHeader>
+            <StyledCardHeader>card game test</StyledCardHeader>
         </StyledCard>
     );
 };
