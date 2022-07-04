@@ -100,6 +100,56 @@
         "id": 19,
         "text": "Trusting in _ is at the core of our political process.",
         "pick": 1
+      },
+      {
+        "id": 20,
+        "text": "Work hard, save up and maybe you can afford _.",
+        "pick": 1
+      },
+      {
+        "id": 21,
+        "text": "When Americans travel to foreign countries, they always bring their _.",
+        "pick": 1
+      },
+      {
+        "id": 22,
+        "text": "In _ we trust!",
+        "pick": 1
+      },
+      {
+        "id": 23,
+        "text": "Make _ great again.",
+        "pick": 1
+      },
+      {
+        "id": 24,
+        "text": "I miss traditional American pastimes like baseball and _.",
+        "pick": 1
+      },
+      {
+        "id": 25,
+        "text": "You can't say anything anymore. Especially not about _.",
+        "pick": 1
+      },
+      {
+        "id": 26,
+        "text": "The American dream is still possible through hard work and a little help from _.",
+        "pick": 1
+      },
+      {
+        "id": 27,
+        "text": "_? Not in my back yard.",
+        "pick": 1
+      },
+      {
+        "id": 28,
+        "text": "Please dont bring up _ at Thanksgiving dinner.",
+        "pick": 1
+      },
+      {
+        "id": 29,
+        "text": "Freedom isn't free, but you can get _ pretty easily.",
+        "pick": 1
       }
     ],
     "whiteCards": [
@@ -205,7 +255,7 @@
       },
       {
         "id": 25,
-        "text": "Apple Pie."
+        "text": "Chilis Grill and Bar."
       },
       {
         "id": 26,
@@ -273,7 +323,7 @@
       },
       {
         "id": 42,
-        "text": "Burning your nike shoes."
+        "text": "Protesting a brand name."
       },
       {
         "id": 43,
@@ -422,6 +472,142 @@
       {
         "id": 79,
         "text": "Female reproductive rights."
+      },
+      {
+        "id": 80,
+        "text": "Xenophobia."
+      },
+      {
+        "id": 81,
+        "text": "Late stage capitalism."
+      },
+      {
+        "id": 82,
+        "text": "Mutually-assured destruction."
+      },
+      {
+        "id": 83,
+        "text": "The trail of tears."
+      },
+      {
+        "id": 84,
+        "text": "Payday loans."
+      },
+      {
+        "id": 85,
+        "text": "A sad McDonalds drive-thru experience."
+      },
+      {
+        "id": 86,
+        "text": "Being rich."
+      },
+      {
+        "id": 87,
+        "text": "Instagram influencers."
+      },
+      {
+        "id": 88,
+        "text": "A Megachurch."
+      },
+      {
+        "id": 89,
+        "text": "Rampant misinformation campaigns."
+      },
+      {
+        "id": 90,
+        "text": "Complete lack of privacy."
+      },
+      {
+        "id": 91,
+        "text": "The deep state."
+      },
+      {
+        "id": 92,
+        "text": "The deeper state."
+      },
+      {
+        "id": 93,
+        "text": "The Jan 6th insurrection."
+      },
+      {
+        "id": 94,
+        "text": "Thanksgiving."
+      },
+      {
+        "id": 95,
+        "text": "Land stolen from native tribes."
+      },
+      {
+        "id": 96,
+        "text": "A can-do attitude."
+      },
+      {
+        "id": 97,
+        "text": "Dick Cheney."
+      },
+      {
+        "id": 98,
+        "text": "Men's rights activists."
+      },
+      {
+        "id": 99,
+        "text": "Commercials for prescription medication."
+      },
+      {
+        "id": 100,
+        "text": "A hip hip and country mashup song."
+      },
+      {
+        "id": 101,
+        "text": "DIY Militias."
+      },
+      {
+        "id": 102,
+        "text": "The Left."
+      },
+      {
+        "id": 103,
+        "text": "The Alt Right."
+      },
+      {
+        "id": 104,
+        "text": "A good guy with a gun."
+      },
+      {
+        "id": 105,
+        "text": "A nice police officer."
+      },
+      {
+        "id": 106,
+        "text": "Reverse-reverse racism."
+      },
+      {
+        "id": 107,
+        "text": "Starting a war all willy nilly."
+      },
+      {
+        "id": 108,
+        "text": "Propaganda."
+      },
+      {
+        "id": 109,
+        "text": "Cancel culture."
+      },
+      {
+        "id": 110,
+        "text": "Netflix."
+      },
+      {
+        "id": 111,
+        "text": "Jeffrey Bezos."
+      },
+      {
+        "id": 112,
+        "text": "Conveniently missing body cam footage."
+      },
+      {
+        "id": 112,
+        "text": "Prescription opioids."
       }
     ]
   }

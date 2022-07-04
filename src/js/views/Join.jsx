@@ -20,7 +20,7 @@ export default () => {
         <PageWrapper>
             <JoinHeader>
                 <img src="/images/logo.svg" />
-                <h1>Card Game Test</h1>
+                <h1>Cards, Again.</h1>
                 <p>
                     Murica Edition
                 </p>
@@ -52,9 +52,6 @@ export default () => {
                 <Button type="submit">Join Game</Button>
             </Form>
             <JoinFooter>
-                {/* <p>
-                    A game by <a href="https://scottdoxey.com/">Scott Doxey</a>
-                </p> */}
             </JoinFooter>
         </PageWrapper>
     );

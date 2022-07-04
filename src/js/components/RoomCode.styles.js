@@ -7,6 +7,6 @@ export const StyledRoomCode = styled.div`
     line-height: 1;
     border: 2px solid #fff;
     border-radius: 0.25rem;
-    background-color: #000;
+    background-color: #3c3b6e;
     user-select: all;
 `;

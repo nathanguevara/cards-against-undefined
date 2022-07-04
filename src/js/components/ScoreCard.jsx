@@ -8,7 +8,7 @@ export const ScoreCard = ({ children }) => {
             <svg width="60" height="63" xmlns="http://www.w3.org/2000/svg">
                 <g
                     transform="translate(-2 -3)"
-                    fill="#000"
+                    fill="#3c3b6e"
                     stroke="#FFF"
                     strokeWidth="2"
                     fillRule="evenodd"
