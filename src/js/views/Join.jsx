@@ -19,10 +19,10 @@ export default () => {
     return (
         <PageWrapper>
             <JoinHeader>
-                <img src="/images/logo.svg" />
+                <img src="/images/logo2.svg" />
                 <h1>Cards, Again.</h1>
                 <p>
-                    Murica Edition
+                    Who are we? _ !
                 </p>
             </JoinHeader>
             <Form

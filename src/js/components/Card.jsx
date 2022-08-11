@@ -12,7 +12,7 @@ import {
 
 const types = {
     black: {
-        backgroundColor: '#3c3b6e',
+        backgroundColor: '#B7191F',
         textColor: '#fff'
     },
     white: {

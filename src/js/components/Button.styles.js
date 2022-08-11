@@ -9,7 +9,7 @@ export const StyledButton = styled.button`
     color: #fff;
     border: 2px solid #fff;
     border-radius: 0.25rem;
-    background-color: #3c3b6e;
+    background-color: #B7191F;
     cursor: ${props => (props.disabled ? 'default' : 'pointer')};
     appearance: none;
     opacity: ${props => (props.disabled ? 0.6 : 1)};

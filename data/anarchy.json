@@ -1,0 +1,420 @@
+{
+    "title": "MURICA Expansion",
+    "blackCards": [
+      {
+        "id": 0,
+        "text": "Who are we?! _!",
+        "pick": 1
+      },
+      {
+        "id": 1,
+        "text": "Just what this team needs, more _.",
+        "pick": 1
+      },
+      {
+        "id": 2,
+        "text": "The jam was going fine until _ ruined everything.",
+        "pick": 1
+      },
+      {
+        "id": 3,
+        "text": "What's the Anarchy gift that keeps on giving?",
+        "pick": 1
+      },
+      {
+        "id": 4,
+        "text": "MRDA now requires each team to have a _",
+        "pick": 1
+      },
+      {
+        "id": 5,
+        "text": "_ and _ : The Official Austin Anarchy Documentary.",
+        "pick": 2
+      },
+      {
+        "id": 6,
+        "text": "Anarchy loves its _!",
+        "pick": 1
+      },
+      {
+        "id": 7,
+        "text": "In Anarchy, _ can be a suitable substitute for _.",
+        "pick": 2
+      },
+      {
+        "id": 8,
+        "text": "_ has been making practice really difficult lately.",
+        "pick": 1
+      },
+      {
+        "id": 9,
+        "text": "Anarchy contains 99% _ and 1% _.",
+        "pick": 2
+      },
+      {
+        "id": 10,
+        "text": "_ strikes fear in the heart of Anarchy.",
+        "pick": 1
+      },
+      {
+        "id": 11,
+        "text": "Theres nothing more Anarchy than showing up to a party with _.",
+        "pick": 1
+      },
+      {
+        "id": 12,
+        "text": "Theres an alarming amount of _ at Anarchy games.",
+        "pick": 1
+      },
+      {
+        "id": 13,
+        "text": "Anarchy's teamwork depends heavily on _.",
+        "pick": 1
+      },
+      {
+        "id": 14,
+        "text": "Come to an Anarchy bout! We finally got rid of _.",
+        "pick": 1
+      },
+      {
+        "id": 15,
+        "text": "Anarchy is just _ and _ in a trenchcoat.",
+        "pick": 2
+      },
+      {
+        "id": 16,
+        "text": "The future of Anarchy will depend on _.",
+        "pick": 1
+      },
+      {
+        "id": 17,
+        "text": "Sometimes in Anarchy, you have to choose between _ and _.",
+        "pick": 2
+      },
+      {
+        "id": 18,
+        "text": "_ will surely solve all Anarchy's problems.",
+        "pick": 1
+      },
+      {
+        "id": 19,
+        "text": "Trusting in _ is at the core of Anarchy's play style.",
+        "pick": 1
+      },
+      {
+        "id": 20,
+        "text": "Copious amounts of _ give Anarchy the competitive edge.",
+        "pick": 1
+      },
+      {
+        "id": 21,
+        "text": "When Anarchy travels for a game, they always bring their _.",
+        "pick": 1
+      },
+      {
+        "id": 22,
+        "text": "Teamwork makes the _ work.",
+        "pick": 1
+      },
+      {
+        "id": 23,
+        "text": "When that final whistle blows, all that matters is _.",
+        "pick": 1
+      },
+      {
+        "id": 24,
+        "text": "You mess with _, you mess with Anarchy.",
+        "pick": 1
+      },
+      {
+        "id": 25,
+        "text": "Penalty called on Anarchy for excessive _.",
+        "pick": 1
+      },
+      {
+        "id": 26,
+        "text": "Its easy to succeed in Anarchy if you use your _.",
+        "pick": 1
+      },
+      {
+        "id": 27,
+        "text": "Wombo Combo skates like his _ depends on it.",
+        "pick": 1
+      },
+      {
+        "id": 28,
+        "text": "The first rule of Anarchy is _.",
+        "pick": 1
+      },
+      {
+        "id": 29,
+        "text": "One time, at HEB, Jenna saw _.",
+        "pick": 1
+      },
+      {
+        "id": 30,
+        "text": "Frogmouth has delayed orders for 6 months due to _.",
+        "pick": 1
+      },
+      {
+        "id": 31,
+        "text": "Other teams might be ranked higher, but Anarchy has _",
+        "pick": 1
+      },
+      {
+        "id": 31,
+        "text": "I am in Austin Anarchy and I have big _ energy.",
+        "pick": 1
+      }
+    ],
+    "whiteCards": [
+      {
+        "id": 0,
+        "text": "Making the block."
+      },
+      {
+        "id": 1,
+        "text": "Weed."
+      },
+      {
+        "id": 2,
+        "text": "Butt Stuff."
+      },
+      {
+        "id": 3,
+        "text": "Objectifying your teammates."
+      },
+      {
+        "id": 4,
+        "text": "Tucking your homies into bed."
+      },
+      {
+        "id": 5,
+        "text": "Promo code ATXANARCHY."
+      },
+      {
+        "id": 6,
+        "text": "Praise kink."
+      },
+      {
+        "id": 7,
+        "text": "The Trans Agenda."
+      },
+      {
+        "id": 8,
+        "text": "Winning the bronze medal at USARS."
+      },
+      {
+        "id": 9,
+        "text": "Violet Crown."
+      },
+      {
+        "id": 10,
+        "text": "The Gatekeepers."
+      },
+      {
+        "id": 11,
+        "text": "Everyon being a little gay."
+      },
+      {
+        "id": 12,
+        "text": "Capitalism."
+      },
+      {
+        "id": 13,
+        "text": "Frantic emails from JJ."
+      },
+      {
+        "id": 14,
+        "text": "A shitload of lube."
+      },
+      {
+        "id": 15,
+        "text": "Just straight up skill."
+      },
+      {
+        "id": 16,
+        "text": "The US government."
+      },
+      {
+        "id": 17,
+        "text": "Open Gender Derby."
+      },
+      {
+        "id": 18,
+        "text": "Posting animal pictures."
+      },
+      {
+        "id": 19,
+        "text": "The fucking supreme court."
+      },
+      {
+        "id": 20,
+        "text": "Magic City."
+      },
+      {
+        "id": 21,
+        "text": "Texas Ment Rollerderby."
+      },
+      {
+        "id": 22,
+        "text": "The Texas Rollergirls."
+      },
+      {
+        "id": 23,
+        "text": "The MRDA."
+      },
+      {
+        "id": 24,
+        "text": "Olive Garden."
+      },
+      {
+        "id": 25,
+        "text": "Calling each other 'Chef'."
+      },
+      {
+        "id": 26,
+        "text": "Jorts."
+      },
+      {
+        "id": 27,
+        "text": "The thirst twitter."
+      },
+      {
+        "id": 28,
+        "text": "Jong (jean thong)."
+      },
+      {
+        "id": 29,
+        "text": "Hydration."
+      },
+      {
+        "id": 30,
+        "text": "Ass crack."
+      },
+      {
+        "id": 31,
+        "text": "Various bulges."
+      },
+      {
+        "id": 32,
+        "text": "Sweat."
+      },
+      {
+        "id": 33,
+        "text": "Powerful funk."
+      },
+      {
+        "id": 34,
+        "text": "Booty."
+      },
+      {
+        "id": 35,
+        "text": "Dunkaroos."
+      },
+      {
+        "id": 36,
+        "text": "The power of friendship."
+      },
+      {
+        "id": 37,
+        "text": "A healthy distrust of authority."
+      },
+      {
+        "id": 38,
+        "text": "Malort."
+      },
+      {
+        "id": 39,
+        "text": "Group therapy."
+      },
+      {
+        "id": 40,
+        "text": "Wombo's vape juice."
+      },
+      {
+        "id": 41,
+        "text": "Success."
+      },
+      {
+        "id": 42,
+        "text": "The jammer."
+      },
+      {
+        "id": 43,
+        "text": "Personality disorders."
+      },
+      {
+        "id": 44,
+        "text": "Mantra hydrate drink mix."
+      },
+      {
+        "id": 45,
+        "text": "Penalties."
+      },
+      {
+        "id": 46,
+        "text": "Refs."
+      },
+      {
+        "id": 47,
+        "text": "Black Dog by Led Zeppelin."
+      },
+      {
+        "id": 48,
+        "text": "Wheel hardness discussions."
+      },
+      {
+        "id": 49,
+        "text": "Cool tattoos."
+      },
+      {
+        "id": 50,
+        "text": "Nerdy shit."
+      },
+      {
+        "id": 51,
+        "text": "Sweat hugs."
+      },
+      {
+        "id": 52,
+        "text": "Frogmouth."
+      },
+      {
+        "id": 53,
+        "text": "Mantra Labs."
+      },
+      {
+        "id": 54,
+        "text": "Mouthguard drama."
+      },
+      {
+        "id": 55,
+        "text": "Making fun of rollerbladers."
+      },
+      {
+        "id": 56,
+        "text": "Vegan shit."
+      },
+      {
+        "id": 57,
+        "text": "Fucking around and finding out."
+      },
+      {
+        "id": 58,
+        "text": "Make the block, but in Spanish."
+      },
+      {
+        "id": 59,
+        "text": "Cheap beer."
+      },
+      {
+        "id": 60,
+        "text": "Giant tubs of merch."
+      },
+      {
+        "id": 61,
+        "text": "Wombo Combo."
+      }
+    ]
+  }

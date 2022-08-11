@@ -15,6 +15,7 @@ import {
 
 const allDecks = [
     { value: 'MURICA', label: 'MURICA' },
+    { value: 'anarchy', label: 'anarchy' },
     { value: 'Base', label: 'Base Set' },
     { value: 'CAHe1', label: 'The First Expansion' },
     { value: 'CAHe2', label: 'The Second Expansion' },
